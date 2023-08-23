@@ -5,3 +5,9 @@
 - Transform the market cap currency using the exchange rate data `exchange_rates.csv`
 - Load the transformed data into a seperate CSV
 - Run the ETL process
+
+## Libraries used
+- glob
+- pandas
+- datetime
+- requests
